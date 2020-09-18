@@ -7,6 +7,4 @@ The project is an programmatic implementation of the Highest Ratio Response Next
 The project is an implementation of the LFU page replacement algorithm programmed in python
 
 ### Group Members
-1. Ustav Unadkat (@Utsav-Unadkat)
-2. Sumedha Shetty (@SumedhaShetty)
-3. Virang Parekh
+@Utsav-Unadkat , @SumedhaShetty and Virang Parekh
